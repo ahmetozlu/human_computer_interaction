@@ -22,7 +22,7 @@ The 'stage' is just a 2D platform, with random holes on the ground and random cl
 
 ## Project Demo
 - The demo video of this project is available on YouTube: https://www.youtube.com/watch?v=HpzLbTf2OQk
-- The screenshots;
+- The screenshot;
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/29588681-20123802-879b-11e7-90b9-afd7d8e92f3d.png">
