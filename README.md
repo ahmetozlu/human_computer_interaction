@@ -1,6 +1,12 @@
 # Intelligent Human Computer Interaction Game
 Human Computer Interaction Game by using OpenCV and Processing.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22610163/29589421-e895550a-879d-11e7-9e3f-b04546cd9ece.png">
+</p>
+
+*A human–machine interface usually involves peripheral hardware for the INPUT and for the OUTPUT. Often, there is an additional component implemented in software, like e.g. a graphical user interface.*
+
 ## Introduction
 
 - **The Game Scenario:** The game character's (Super Mario's) velocity depends on the speed and direction someone's fist or palm (as user's choise) movements by using the computer's front-facing web camera. The 'stage' is just a 2D platform, with random holes on the ground and random clouds on sky. There is a timer upon game start, and that timer stops when the character collide to one of those holes or clouds (game end). A button resets the game stage. 
