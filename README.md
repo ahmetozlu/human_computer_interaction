@@ -1,6 +1,8 @@
 # Intelligent Human Computer Interaction Game
 Human Computer Interaction Game by using OpenCV and Processing.
 
+## Introduction
+
 - **The Game Scenario:** The game character's (Super Mario's) velocity depends on the speed and direction someone's fist or palm (as user's choise) movements by using the computer's front-facing web camera. The 'stage' is just a 2D platform, with random holes on the ground and random clouds on sky. There is a timer upon game start, and that timer stops when the character collide to one of those holes or clouds (game end). A button resets the game stage. 
 
 - **The Main Aim of The Game:** The main aim of this proof-of concept game is that incentivizing the users to move/sport for keeping them healthy while they are having fun by playing a human - computer interaction game.
