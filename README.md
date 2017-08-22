@@ -19,7 +19,7 @@ Human Computer Interaction Game by using OpenCV and Processing.
 
 **1. Front-End**
 
-The 'stage' is just a 2D platform, with random holes on the ground and random clouds on sky and it was created by using Processing 3.0 with the images that are available in [data folder](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario/data)
+The 'stage' is just a 2D platform, with random holes on the ground and random clouds on sky and it was created by using Processing 3.0 with the images that are available in [data folder](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario/data).
 
 **2. Back-End**
 
