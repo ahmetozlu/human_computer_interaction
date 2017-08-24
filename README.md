@@ -31,7 +31,7 @@ The 'stage' is just a 2D platform, with random holes on the ground and random cl
 - The screenshot;
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/29588681-20123802-879b-11e7-90b9-afd7d8e92f3d.png">
+  <img src="https://user-images.githubusercontent.com/22610163/29653050-ee737c04-88b0-11e7-8b3e-3404b592732c.gif">
 </p>
 
 ## Installation
