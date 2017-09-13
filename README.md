@@ -60,7 +60,7 @@ If you use this code for your publications, please cite it as:
         author = "Ahmet Özlü",
         title  = "Intelligent Human Computer Interaction Game",
         year   = "2017",
-        url    = "https://github.com/ahmetozlu/intelligent-human-computer-interaction-game"
+        url    = "https://github.com/ahmetozlu/human_computer_interaction"
     }
 
 ## Author
