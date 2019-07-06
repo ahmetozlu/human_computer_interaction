@@ -1,5 +1,5 @@
 # Intelligent Human Computer Interaction Game
-*Human Computer Interaction Game by using OpenCV and Processing:* Control the game character's velocity through the speed and direction of your fist(hand) or palm! Fist(hand)&palm is detected using [Haar-Cascade Classifier](http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) is implemented with OpenCV on java. The trained Haar-Cascade Classifier XML files can be accessible in [here](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario). 
+*Human Computer Interaction Game by using OpenCV and Processing:* Control the game character's velocity through the speed and direction of your fist or palm(hand)! Fist&palm(hand) is detected using [Haar-Cascade Classifier](http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) is implemented with OpenCV on java. The trained Haar-Cascade Classifier XML files can be accessible in [here](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario). 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/29653050-ee737c04-88b0-11e7-8b3e-3404b592732c.gif">
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-- **The Game Scenario:** The game character's (Super Mario's) velocity depends on the speed and direction someone's fist(hand) or palm (as user's choise) movements by using the computer's front-facing web camera. The 'stage' is just a 2D platform, with random holes on the ground and random clouds on sky. There is a timer upon game start, and that timer stops when the character collide to one of those holes or clouds (game end). A button resets the game stage. 
+- **The Game Scenario:** The game character's (Super Mario's) velocity depends on the speed and direction someone's fist or palm(hand) (as user's choise) movements by using the computer's front-facing web camera. The 'stage' is just a 2D platform, with random holes on the ground and random clouds on sky. There is a timer upon game start, and that timer stops when the character collide to one of those holes or clouds (game end). A button resets the game stage. 
 
 - **The Main Aim of The Game:** The main aim of this proof-of concept game is that incentivizing the users to move/sport for keeping them healthy while they are having fun by playing a human - computer interaction game.
 
@@ -27,7 +27,7 @@ The 'stage' is just a 2D platform, with random holes on the ground and random cl
 
 **2. Back-End**
 
-[Haar-Cascade Classifier](http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) was used for fist(hand) and palm detection. The trained Haar-Cascade Classifier XML files are available in [here](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario).
+[Haar-Cascade Classifier](http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) was used for fist and palm(hand) detection. The trained Haar-Cascade Classifier XML files are available in [here](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario).
 
 
 ## Project Demo
