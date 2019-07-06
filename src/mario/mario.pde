@@ -3,8 +3,6 @@ Author : Ahmet Özlü
 ahmetozlu93@gmail.com
 */
 PImage marioimage;
-PImage mariorun;
-PImage mariorun2;
  
 boolean isHandMovementDetectorWindowCreated = false;
 int loadingScreenCounter=0;
@@ -32,10 +30,6 @@ void setup() {
   
   marioimage = loadImage("Wing_Mario.png");
   marioimage.resize(80,80);
-  
-  mariorun = loadImage("mariorun.png");
-  
-  mariorun2 = loadImage("mariorun2.png");
   
   myMario = new Mario(50,530);
   
