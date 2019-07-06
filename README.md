@@ -5,12 +5,6 @@
   <img src="https://user-images.githubusercontent.com/22610163/29653050-ee737c04-88b0-11e7-8b3e-3404b592732c.gif">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/29589421-e895550a-879d-11e7-9e3f-b04546cd9ece.png">
-</p>
-
-*A human–machine interface usually involves peripheral hardware for the INPUT and for the OUTPUT. Often, there is an additional component implemented in software, like e.g. a graphical user interface.*
-
 ## Introduction
 
 - **The Game Scenario:** The game character's (Super Mario's) velocity depends on the speed and direction someone's fist or palm(hand) (as user's choise) movements by using the computer's front-facing web camera. The 'stage' is just a 2D platform, with random holes on the ground and random clouds on sky. There is a timer upon game start, and that timer stops when the character collide to one of those holes or clouds (game end). A button resets the game stage. 
@@ -29,6 +23,11 @@ The 'stage' is just a 2D platform, with random holes on the ground and random cl
 
 [Haar-Cascade Classifier](http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) was used for fist and palm(hand) detection. The trained Haar-Cascade Classifier XML files are available in [here](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario).
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22610163/29589421-e895550a-879d-11e7-9e3f-b04546cd9ece.png">
+</p>
+
+*A human–machine interface usually involves peripheral hardware for the INPUT and for the OUTPUT. Often, there is an additional component implemented in software, like e.g. a graphical user interface.*
 
 ## Project Demo
 - The demo video of this project is available on YouTube: https://www.youtube.com/watch?v=HpzLbTf2OQk
