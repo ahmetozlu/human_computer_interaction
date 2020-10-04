@@ -1,5 +1,5 @@
 # Intelligent Human Computer Interaction Game
-*Human Computer Interaction Game by using OpenCV and Processing:* Control the game character's velocity through the speed and direction of your fist or palm(hand)! Fist&palm(hand) is detected using [Haar-Cascade Classifier](http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) is implemented with OpenCV on java. The trained Haar-Cascade Classifier XML files can be accessible in [here](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario). 
+*Human Computer Interaction Game by using OpenCV and Processing:* Control the game character's velocity through the speed and direction of your fist or palm(hand)! Fist&palm(hand) is detected using [Haar-Cascade Classifier](http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) is implemented with OpenCV on java. The trained Haar-Cascade Classifier XML files can be accessible in [here](https://github.com/ahmetozlu/intelligent-human-computer-interaction-game/tree/master/src/mario). ***Please contact if you need professional human-computer inteaction based projects with the super high accuracy.***
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/29653050-ee737c04-88b0-11e7-8b3e-3404b592732c.gif">
